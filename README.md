@@ -1,1 +1,4 @@
-# kaggle_public
+# Kaggle Projects
+## Machine Learning  
+
+* Titanic - Classification
